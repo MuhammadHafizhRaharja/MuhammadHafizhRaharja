@@ -4,18 +4,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Hafizh+Raharja+%F0%9F%91%8B;IoT+%26+Full-Stack+Developer;AI+Engineer;Information+Systems+Student+at+Telkom+University;Building+VoCat%2C+an+AI+companion+robot" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadHafizhRaharja&label=Profile%20Views&color=2EA043&style=for-the-badge" alt="Profile views"/>
+[![Status: Open to Work](https://img.shields.io/badge/Status-Open_to_Work-2EA043?style=for-the-badge&labelColor=1A472A)](https://www.linkedin.com/in/muhammadhafizhraharja)
+![Education: D3 Information Systems, Telkom University](https://img.shields.io/badge/Education-D3_Information_Systems_%C2%B7_Telkom_University-2EA043?style=for-the-badge&labelColor=1A472A)
 
 </div>
 
-## 👋 About Me
+<h2 align="center">👋 About Me</h2>
 
-- 🎓 Information Systems student (D3) at Telkom University, Bandung, Indonesia
-- 🔌 I build IoT systems end to end: ESP32-C3 firmware, cloud APIs, and mobile apps
-- 🧠 AI engineer working with LLMs, RAG pipelines, and TTS
-- 📌 Currently building VoCat (AI companion robot) and DocuMind (document AI platform)
+I'm an Information Systems student at Telkom University in Bandung, Indonesia. I build IoT systems end to end, from ESP32-C3 firmware to cloud APIs and mobile apps, plus AI work around LLMs, RAG pipelines, and TTS.
 
-## 🚀 Featured Projects
+**Currently building:** VoCat, an AI companion robot, and DocuMind, a document AI platform.
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -27,7 +27,7 @@
 
 <sub>Client portfolio sites and community apps live in private repos.</sub>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 **Languages**
 
@@ -64,7 +64,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 </div>
 
-## 📫 Connect
+<h2 align="center">📫 Connect</h2>
 
 <div align="center">
 
@@ -86,6 +86,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40hafizraharjaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizraharjaa)
 
 Open to collaboration, freelance work, and conversations about IoT or AI.
+
+<img src="https://komarev.com/ghpvc/?username=MuhammadHafizhRaharja&label=Profile%20Views&color=2EA043&style=flat-square&abbreviated=true" alt="Profile views"/>
 
 </div>
 
