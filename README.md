@@ -1,40 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2416,100:2A623D&height=190&section=header&text=Hafizh%20Raharja&fontSize=50&fontColor=C0C0C0&animation=fadeIn&fontAlignY=35&desc=%F0%9F%90%8D%20Slytherin%20%E2%80%A2%20Bandung%2C%20Indonesia&descSize=16&descAlignY=58" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2416,100:2A623D&height=190&section=header&text=Hafizh%20Raharja&fontSize=50&fontColor=C0C0C0&animation=fadeIn&fontAlignY=35&desc=Bandung%2C%20Indonesia&descSize=16&descAlignY=58" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Mischief+Managed;%F0%9F%AA%84+IoT+%26+Full-Stack+Developer;%F0%9F%A7%A0+AI+Engineer;%F0%9F%90%8D+Slytherin+%C2%B7+Mahasiswa+Telkom+University;%F0%9F%90%88+Patronus%3A+kucing+robot" alt="Typing SVG"/>
-
-![House: Slytherin](https://img.shields.io/badge/House-%F0%9F%90%8D_Slytherin-1A472A?style=for-the-badge)
-![Wand](https://img.shields.io/badge/Wand-Elder_wood_%C2%B7_13%C2%BE-2A623D?style=for-the-badge)
-![Patronus](https://img.shields.io/badge/Patronus-%F0%9F%90%88_kucing-1A472A?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Hafizh+Raharja+%F0%9F%91%8B;IoT+%26+Full-Stack+Developer;AI+Engineer;Information+Systems+Student+at+Telkom+University;Building+VoCat%2C+an+AI+companion+robot" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadHafizhRaharja&label=Profile%20Views&color=2EA043&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-## 🧙 Tentang Saya
+## 👋 About Me
 
-- 🎓 Mahasiswa **D3 Sistem Informasi — Telkom University**, Bandung
-- 🪄 Merapal kode **IoT end-to-end**: firmware ESP32-C3 (C++) → cloud + API → aplikasi mobile
-- 🧠 **AI Engineer**: LLM, RAG, TTS pipeline — dari data mentah jadi produk yang jalan
-- 🐍 Ambisi Slytherin: *resourceful & determined* — dari konsep sampai produksi
-- 📌 Sedang mengerjakan: robot AI companion **VoCat** & platform dokumen **DocuMind**
+- 🎓 Information Systems student (D3) at Telkom University, Bandung, Indonesia
+- 🔌 I build IoT systems end to end: ESP32-C3 firmware, cloud APIs, and mobile apps
+- 🧠 AI engineer working with LLMs, RAG pipelines, and TTS
+- 📌 Currently building VoCat (AI companion robot) and DocuMind (document AI platform)
 
-## 📜 Proyek Unggulan
+## 🚀 Featured Projects
 
-<sub>Ramuan terbaik butuh waktu — ini yang sedang matang di kuali. 🧪</sub>
-
-| Proyek | Deskripsi | Teknologi |
+| Project | Description | Stack |
 | --- | --- | --- |
-| **[DocuMind](https://app-dogen.aiones.app)** 🌐 | *Pensieve digital* — platform AI penjelajah dokumen untuk kantor BUMD: tanya-jawab lintas dokumen dengan RAG. Live di produksi. | Node.js · React · RAG · PostgreSQL |
-| **VoCat / Nori** 🤖 *(repo privat)* | *Familiar* — robot AI companion: firmware ESP32-C3, BLE, backend cloud, pipeline TTS, app mobile. | ESP32-C3 · C++ · Node.js · Capacitor |
-| **MelonSmart / AquSmartPonik** 🌱 *(privat)* | *Herbology presisi* — monitoring hidroponik via IoT + deteksi dini penyakit melon dengan LLM. | IoT · ESP32 · LLM |
-| **[Kairos](https://github.com/MuhammadHafizhRaharja/Kairos)** ⏳ | *Time-Turner* — aplikasi manajemen pengembangan diri: pantau progres skill, kelola materi, kejar target. | Flutter · Dart |
-| **[Toko Kopi Tjap1](https://github.com/MuhammadHafizhRaharja/Toko_Kopi_Tjap1)** ☕ | *Toko di Hogsmeade* — website profil & katalog toko kopi. | Laravel · Bootstrap |
+| **[DocuMind](https://app-dogen.aiones.app)** 🌐 | AI document explorer for offices: cross-document Q&A with RAG. Running in production. | Node.js · React · RAG · PostgreSQL |
+| **VoCat / Nori** 🤖 *(private repo)* | AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, companion app. | ESP32-C3 · C++ · Node.js · Capacitor |
+| **MelonSmart / AquSmartPonik** 🌱 *(private repo)* | Precision farming: IoT monitoring for hydroponic melon and LLM-based disease detection. | IoT · ESP32 · LLM |
+| **[Kairos](https://github.com/MuhammadHafizhRaharja/Kairos)** | Personal growth tracker built with Flutter: track skill progress, manage learning material, chase mastery targets. | Flutter · Dart |
+| **[Toko Kopi Tjap1](https://github.com/MuhammadHafizhRaharja/Toko_Kopi_Tjap1)** | Website and product catalog for a coffee shop. | Laravel · Bootstrap |
 
-<sub>🎨 Selain itu: beberapa website portofolio klien & aplikasi komunitas (repo privat).</sub>
+<sub>Client portfolio sites and community apps live in private repos.</sub>
 
-## 🪄 Buku Mantra — Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -71,12 +64,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🏆 House Points — Statistik GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHafizhRaharja&show_icons=true&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&icon_color=C0C0C0&hide_border=true&rank_icon=github&custom_title=House%20Points" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHafizhRaharja&layout=compact&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&hide_border=true&langs_count=8&custom_title=Mantra%20Terkuat" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHafizhRaharja&show_icons=true&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&icon_color=C0C0C0&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHafizhRaharja&layout=compact&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=MuhammadHafizhRaharja&background=0D2818&border=0D2818&stroke=1A472A&ring=50C878&fire=2EA043&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=50C878&sideLabels=C0C0C0&dates=A9C0B0&hide_border=true" alt="GitHub Streak"/>
 
@@ -84,7 +77,7 @@
 
 </div>
 
-## 🦉 Kirim Burung Hantu — Hubungi Saya
+## 📫 Connect
 
 <div align="center">
 
@@ -92,9 +85,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Hafizh_Raharja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhafizhraharja)
 [![Instagram](https://img.shields.io/badge/Instagram-%40hafizraharjaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hafizraharjaa)
 
-Terbuka untuk kolaborasi, freelance & diskusi seputar IoT / AI. 🚀
-
-⚡ *Mischief managed.*
+Open to collaboration, freelance work, and conversations about IoT or AI.
 
 </div>
 
