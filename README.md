@@ -11,6 +11,8 @@
 
 <h2 align="center">👋 About Me</h2>
 
+<img align="right" width="140" src="https://github.com/user-attachments/assets/b206f421-052b-4444-bcdb-48c41c85c18b" alt="Chibi character in an animal onesie typing at a laptop"/>
+
 I'm an Information Systems student at Telkom University in Bandung, Indonesia. I build IoT systems end to end, from ESP32-C3 firmware to cloud APIs and mobile apps, plus AI work around LLMs, RAG pipelines, and TTS.
 
 **Currently building:** VoCat, an AI companion robot, and DocuMind, a document AI platform.
@@ -74,6 +76,13 @@ I'm an Information Systems student at Telkom University in Bandung, Indonesia. I
 <img src="https://streak-stats.demolab.com?user=MuhammadHafizhRaharja&background=0D2818&border=0D2818&stroke=1A472A&ring=50C878&fire=2EA043&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=50C878&sideLabels=C0C0C0&dates=A9C0B0&hide_border=true" alt="GitHub Streak"/>
 
 <img width="90%" src="https://ghchart.rshah.org/2EA043/MuhammadHafizhRaharja" alt="Contribution Chart"/>
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel-art night room with mushroom decorations"/>
+<img height="180" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Cozy pixel-art developer workspace"/>
 
 </div>
 
