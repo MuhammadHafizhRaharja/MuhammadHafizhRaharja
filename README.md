@@ -25,7 +25,7 @@ I'm an Information Systems student at Telkom University in Bandung, Indonesia. I
 | **VoCat / Nori** 🤖 *(private repo)* | AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, companion app. | ESP32-C3 · C++ · Node.js · Capacitor |
 | **MelonSmart / AquSmartPonik** 🌱 *(private repo)* | Precision farming: IoT monitoring for hydroponic melon and LLM-based disease detection. | IoT · ESP32 · LLM |
 | **[Kairos](https://github.com/MuhammadHafizhRaharja/Kairos)** | Personal growth tracker built with Flutter: track skill progress, manage learning material, chase mastery targets. | Flutter · Dart |
-| **[Toko Kopi Tjap1](https://github.com/MuhammadHafizhRaharja/Toko_Kopi_Tjap1)** | Website and product catalog for a coffee shop. | Laravel · Bootstrap |
+| **Tjap1 Flutter** ☕ *(private repo)* | Flutter mobile app for the Tjap1 coffee shop, backed by an external API. | Flutter · Dart |
 
 <sub>Client portfolio sites and community apps live in private repos.</sub>
 
