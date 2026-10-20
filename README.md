@@ -15,6 +15,10 @@
 
 I'm an Information Systems student at Telkom University in Bandung, Indonesia. I build IoT systems end to end, from ESP32-C3 firmware to cloud APIs and mobile apps, plus AI work around LLMs, RAG pipelines, and TTS.
 
+- 🔌 **IoT:** ESP32-C3 firmware, BLE, and sensor data flowing to cloud dashboards
+- 🧠 **AI:** LLM apps, RAG pipelines, and text-to-speech
+- 📱 **Apps:** web and mobile front ends with React, Flutter, and Capacitor
+
 **Currently building:** VoCat, an AI companion robot, and DocuMind, a document AI platform.
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -31,47 +35,23 @@ I'm an Information Systems student at Telkom University in Bandung, Indonesia. I
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Area | Stack |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,dart,java,php&perline=8" alt="C, C++, Python, JavaScript, TypeScript, Dart, Java, PHP"/> |
+| **Web & Mobile** | <img src="https://skillicons.dev/icons?i=nodejs,react,vite,tailwind,laravel,flutter&perline=8" alt="Node.js, React, Vite, Tailwind CSS, Laravel, Flutter"/> &nbsp; ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) |
+| **Embedded & IoT** | <img src="https://skillicons.dev/icons?i=arduino&perline=8" alt="Arduino"/> &nbsp; ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white) ![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-3C8CF5?style=flat-square&logo=bluetooth&logoColor=white) |
+| **Data & Tools** | <img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux&perline=8" alt="PostgreSQL, MySQL, Git, Linux"/> |
 
-**Embedded & IoT**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![BLE](https://img.shields.io/badge/Bluetooth_LE-3C8CF5?style=for-the-badge&logo=bluetooth&logoColor=white)
-
-**Web & Mobile**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHafizhRaharja&show_icons=true&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&icon_color=C0C0C0&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHafizhRaharja&layout=compact&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHafizhRaharja&show_icons=true&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&icon_color=C0C0C0&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHafizhRaharja&layout=compact&bg_color=0D2818&title_color=50C878&text_color=E8E8E8&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=MuhammadHafizhRaharja&background=0D2818&border=0D2818&stroke=1A472A&ring=50C878&fire=2EA043&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=50C878&sideLabels=C0C0C0&dates=A9C0B0&hide_border=true" alt="GitHub Streak"/>
 
