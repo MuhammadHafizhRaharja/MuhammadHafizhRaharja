@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2416,100:2A623D&height=190&section=header&text=Hafizh%20Raharja&fontSize=50&fontColor=C0C0C0&animation=fadeIn&fontAlignY=35&desc=Bandung%2C%20Indonesia&descSize=16&descAlignY=58" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=854&lines=Hi%2C+I%27m+Hafizh+Raharja+%F0%9F%91%8B;IoT+%26+Full-Stack+Developer;AI+Engineer;Information+Systems+Student+at+Telkom+University;Building+VoCat%2C+an+AI+companion+robot" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=854&lines=Hi%2C+I%27m+Hafizh+Raharja+%F0%9F%91%8B;IoT+%26+Full-Stack+Developer;AI+Engineer;Information+Systems+Student+at+Telkom+University;Building+MomotBot%2C+an+AI+companion+robot" alt="Typing SVG"/>
 
 [![Status: Open to Work](https://img.shields.io/badge/Status-Open_to_Work-2EA043?style=for-the-badge&labelColor=1A472A)](https://www.linkedin.com/in/muhammadhafizhraharja)
 ![Education: D3 Information Systems, Telkom University](https://img.shields.io/badge/Education-D3_Information_Systems_%C2%B7_Telkom_University-2EA043?style=for-the-badge&labelColor=1A472A)
@@ -19,14 +19,14 @@ I'm an Information Systems student at Telkom University in Bandung, Indonesia. I
 - 🧠 **AI:** LLM apps, RAG pipelines, and text-to-speech
 - 📱 **Apps:** web and mobile front ends with React, Flutter, and Capacitor
 
-**Currently building:** VoCat, an AI companion robot, and DocuMind, a document AI platform.
+**Currently building:** MomotBot, an AI companion robot, and DocuMind, a document AI platform.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 | Project | Description | Stack |
 | --- | --- | --- |
 | **[DocuMind](https://app-dogen.aiones.app)** 🌐 | AI document explorer for offices: cross-document Q&A with RAG. Running in production. | Node.js · React · RAG · PostgreSQL |
-| **VoCat / Nori** 🤖 *(private repo)* | AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, companion app. | ESP32-C3 · C++ · Node.js · Capacitor |
+| **MomotBot** 🤖 *(private repo)* | AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, companion app. | ESP32-C3 · C++ · Node.js · Capacitor |
 | **MelonSmart / AquSmartPonik** 🌱 *(private repo)* | Precision farming: IoT monitoring for hydroponic melon and LLM-based disease detection. | IoT · ESP32 · LLM |
 | **[Kairos](https://github.com/MuhammadHafizhRaharja/Kairos)** | Personal growth tracker built with Flutter: track skill progress, manage learning material, chase mastery targets. | Flutter · Dart |
 | **Tjap1 Flutter** ☕ *(private repo)* | Flutter mobile app for the Tjap1 coffee shop, backed by an external API. | Flutter · Dart |
