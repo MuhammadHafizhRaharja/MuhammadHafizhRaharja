@@ -18,24 +18,16 @@ Right now I'm building **MomotBot**, an AI companion robot, and **DocuMind**, a 
 
 ## Selected work
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[DocuMind](https://app-dogen.aiones.app)**<br/><sub>Live in production</sub> | Answers questions across an office's documents with RAG. | Node.js, React, PostgreSQL |
-| **MomotBot**<br/><sub>Private repo</sub> | AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, and a companion app. | ESP32-C3, C++, Node.js, Capacitor |
-| **MelonSmart / AquSmartPonik**<br/><sub>Private repo</sub> | Monitors hydroponic melon for a farmers' group (KWT Dewi Sri) and flags plant disease early with an LLM. | ESP32, IoT sensors, LLM |
-| **[Kairos](https://github.com/MuhammadHafizhRaharja/Kairos)** | Tracks skill progress, learning material, and mastery targets. | Flutter, Dart |
-| **Tjap1 Flutter**<br/><sub>Private repo</sub> | Mobile app for the Tjap1 coffee shop, backed by an external API. | Flutter, Dart |
+<a href="https://app-dogen.aiones.app"><img width="100%" src="assets/card-documind.svg" alt="DocuMind. Live. Answers questions across an office's documents with RAG. Built with Node.js, React, PostgreSQL."/></a>
+
+<img width="49%" src="assets/card-momotbot.svg" alt="MomotBot. Private repo. AI companion robot: ESP32-C3 firmware, BLE, cloud backend, TTS pipeline, and a companion app. Built with ESP32-C3, C++, Node.js, Capacitor."/>&nbsp;<img width="49%" src="assets/card-melonsmart.svg" alt="MelonSmart. Private repo. Monitors hydroponic melon for KWT Dewi Sri and flags plant disease early with an LLM. Builds on AquSmartPonik. Built with ESP32, IoT sensors, LLM."/>
+<a href="https://github.com/MuhammadHafizhRaharja/Kairos"><img width="49%" src="assets/card-kairos.svg" alt="Kairos. Public repo. Tracks skill progress, learning material, and mastery targets. Built with Flutter, Dart."/></a>&nbsp;<img width="49%" src="assets/card-tjap1.svg" alt="Tjap1 Flutter. Private repo. Mobile app for the Tjap1 coffee shop, backed by an external API. Built with Flutter, Dart."/>
 
 <sub>Client portfolio sites and community apps live in private repos.</sub>
 
 ## Stack
 
-| Area | Tools |
-| :-- | :-- |
-| Languages | <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,dart,java,php&perline=8" alt="C, C++, Python, JavaScript, TypeScript, Dart, Java, PHP"/> |
-| Web & mobile | <img src="https://skillicons.dev/icons?i=nodejs,react,vite,tailwind,laravel,flutter&perline=8" alt="Node.js, React, Vite, Tailwind CSS, Laravel, Flutter"/> <img src="https://img.shields.io/badge/Capacitor-0E1A2E?style=flat-square&logo=capacitor&logoColor=F4A259" alt="Capacitor"/> |
-| Embedded & IoT | <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/> <img src="https://img.shields.io/badge/ESP32-0E1A2E?style=flat-square&logo=espressif&logoColor=F4A259" alt="ESP32"/> <img src="https://img.shields.io/badge/PlatformIO-0E1A2E?style=flat-square&logo=platformio&logoColor=F4A259" alt="PlatformIO"/> <img src="https://img.shields.io/badge/Bluetooth_LE-0E1A2E?style=flat-square&logo=bluetooth&logoColor=F4A259" alt="Bluetooth LE"/> |
-| Data & tools | <img src="https://skillicons.dev/icons?i=postgres,mysql,git,linux" alt="PostgreSQL, MySQL, Git, Linux"/> |
+<img width="100%" src="assets/stack.svg" alt="Tech stack. Languages: C, C++, Python, JavaScript, TypeScript, Dart, Java, PHP. Embedded and IoT: ESP32-C3, Arduino, PlatformIO, Bluetooth LE. Web and mobile: Node.js, React, Vite, Tailwind CSS, Laravel, Flutter, Capacitor. Data and tools: PostgreSQL, MySQL, Git, Linux."/>
 
 ## Activity
 
